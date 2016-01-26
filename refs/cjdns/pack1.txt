@@ -1,0 +1,37 @@
+176.31.171.15:8988": {
+"peerName": "meshnet.pl-alien",
+"ipv6":"fc11:2640:c1d3:2a2f:8a4f:2a41:e54d:53dd",
+"country":"fr",
+"publicKey": "3p1pj08w7tqnfd9p5gwrwpd8kpjbu5nmw2twkwbfullzlwt8jkg0.k",
+"password": "meshnetpl2public000xyz",
+"website": "http://meshnet.pl/node/alien",
+"contact": "irc://h.irc.meshnet.pl/#peering",
+},
+
+"193.25.1.157:48158": {
+"peerName": "meshnet.pl-fire",
+"ipv6": "fc2f:22bf:e287:88ca:a896:896e:7e62:b411",
+"country":"pl",
+"publicKey": "5lk736104jz5rw8m4t79llskvccqvrhvxu50np0h31ys4n8lv4f0.k",
+"password": "public",
+"contact": "irc://h.irc.meshnet.pl/#peering",
+},
+
+"84.10.11.235:12641": {
+"peerName":"meshnet.pl-harry",
+"ipv6": "fc5f:c567:102:c14e:326e:5035:d7e5:9f78",
+"country":"pl",
+"publicKey": "d8gthrk3kwbbwnnxc3vnbz7h5nkpbk8l49wz59dy7y8sn3yhs5k0.k",
+"password": "public",
+"contact": "irc://h.irc.meshnet.pl/#peering",
+},
+
+"178.150.86.233:3032": {
+"publicKey":"104uktv53rd85yt8vhw7tkt6gv2jgu78b0ny0zqzyjulwsr1z030.k",
+"password":"ml94qbj9wzpg0yq9u4tld306l73bz6h",
+"ipv6": "fccd:873d:246c:f795:1e15:accd:879d:f373",
+"peerName": "shiki.cjdns.link,
+"country":"ua",
+"contact": "mailto:bakalolka@gmail.com"
+}
+
